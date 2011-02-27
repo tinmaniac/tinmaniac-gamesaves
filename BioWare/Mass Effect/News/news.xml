@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<BioWareApp>
+  <application>
+    <languagetable>
+      <strings language="en">
+        <string name="LearnMore">Learn More</string>
+        <string name="Title">Get the brand new mission and 1.01 patch now!</string>
+        <string name="Body">
+          <![CDATA[Free mission 'Bring Down the Sky' is ready for download. A batarian extremist group has hijacked a mobile asteroid station in the Asgard system, setting it on a collision course with the nearby colony world of Terra Nova.
+ 
+Grab the 1.01 patch by itself, or get the entire package by downloading 'Bring Down the Sky']]></string>
+        <string name="NewsID">1</string>
+      </strings>
+      <strings language="fr">
+        <string name="LearnMore">En savoir plus</string>
+        <string name="Title">Procurez-vous dès maintenant le patch v1.01 !</string>
+        <string name="Body">
+          <![CDATA[Le patch 1.01 sera nécessaire pour la nouvelle mission 'Turbulences à 900 000 pieds' prochainement disponible gratuitement. 
+
+BioWare travaille sans relâche afin d'en assurer la production pour nos fans français.]]>
+        </string>
+      </strings>
+      <strings language="de">
+        <string name="LearnMore">Weitere Informationen</string>
+        <string name="Title">Holen Sie sich jetzt die brandneue Mission und das Patch 1.01!</string>
+        <string name="Body">
+          <![CDATA[Die Gratis-Mission 'Kolliosionskurs' ist bereit zum Download . Eine batarianische Extremistengruppe hat eine mobile Asteroidenstation im Asgard System in ihre Gewalt und auf Kolliosionskurs mit der nahegelegenen kolonisierten Welt Terra Nova gebracht.
+ 
+Laden Sie das Patch 1.01 einzeln herunter, oder holen Sie sich das ganze Paket, indem sie 'Kolliosionskurs'herunterladen.]]>
+        </string>
+      </strings>
+      <strings language="it">
+        <string name="LearnMore">Maggiori dettagli</string>
+        <string name="Title">Scarica subito la nuova missione e la patch 1.01!</string>
+        <string name="Body">
+          <![CDATA[La missione gratuita 'Impatto imminente' è disponibile per il download. Un gruppo di estremisti batarian ha dirottato un asteroide nel sistema Asgard, mettendolo in rotta di collisione con la vicina colonia di Terra Nova.
+
+Scarica solo la patch 1.01, oppure l'intero pacchetto scaricando 'Impatto imminente'.]]>
+        </string>
+      </strings>
+      <strings language="es">
+        <string name="LearnMore">Más información</string>
+        <string name="Title">¡Consigue ya la nueva misión y el parche 1.01!</string>
+        <string name="Body">
+          <![CDATA[Ya está disponible la misión gratuita "El cielo se está cayendo". Extremistas batarianos han secuestrado un asteroide móvil en el sistema Asgard, y lo han puesto en rumbo de colisión con el cercano mundo colonial de Terra Nova.
+ 
+Baja el parche 1.01 o descarga "El cielo se está cayendo" y consigue el paquete completo.]]>
+        </string>
+      </strings>
+      <strings language="cs">
+        <string name="LearnMore">Více informací</string>
+        <string name="Title">Přidej se již dnes ke komunitě Mass Effect od BioWare</string>
+        <string name="Body">Zaregistruj si Mass Effect a získej přístup k exkluzivnímu obsahu, speciálním diskusním fórům a nejnovějším novinkách o projektech ze světa Mass Effect.</string>
+      </strings>
+      <strings language="cz">
+        <string name="LearnMore">Více informací</string>
+        <string name="Title">Přidej se již dnes ke komunitě Mass Effect od BioWare</string>
+        <string name="Body">Zaregistruj si Mass Effect a získej přístup k exkluzivnímu obsahu, speciálním diskusním fórům a nejnovějším novinkách o projektech ze světa Mass Effect.</string>
+      </strings>
+      <strings language="hu">
+        <string name="LearnMore">További információ</string>
+        <string name="Title">Csatlakozz a Mass Effect közösséghez még ma!</string>
+        <string name="Body">Regisztráld a Mass Effect játékot, így hozzájuthatsz a Mass Effect játékkal kapcsolatos különleges tartalmakhoz, speciális fórumokhoz és a legújabb hírekhez!</string>
+      </strings>
+      <strings language="pl">
+        <string name="LearnMore">Dowiedz się więcej.</string>
+        <string name="Title">Dołącz do społeczności Mass Effect.</string>
+        <string name="Body">Zarejestruj Mass Effect, aby otrzymać dostęp do materiałów dodatkowych i na bieżąco śledzić informacje dotyczące gry.</string>
+      </strings>
+      <strings language="ru">
+        <string name="LearnMore">Подробнее</string>
+        <string name="Title">Присоединяйтесь к сообществу Mass Effect от Bioware</string>
+        <string name="Body">Зарегистрируйте Mass Effect, чтобы получить доступ к уникальному контенту, форумам и последним новостям по предстоящим проектам Mass Effect.</string>
+      </strings>
+    </languagetable>
+  </application>
+
+  <pages default="News">
+    <page name="News" background="${NEWS_DIR}\register.bmp">
+      <xmlbutton name="Link1" action="URL" value="http://masseffect.bioware.com/route/me/pc/ln/patch/${Language}/">
+        <position x="526" y="112" />
+        <size width="161" height="24" />
+        <text normal="LearnMore" duplicate="true" />
+        <textfont normal="Verdana" duplicate="true" />
+        <textsize normal="12" duplicate="true" />
+        <texteffect normal="true" duplicate="true" />
+        <textstyle normal="bold" duplicate="true" />
+        <textcolour normal="72C0D4" duplicate="true" over="FFFFFF"/>
+      </xmlbutton>
+      <xmlbutton name="Title" >
+        <position x="40" y="15" />
+        <size width="600" height="25" />
+        <text normal="Title" duplicate="true" />
+        <textfont normal="Verdana" duplicate="true" />
+        <textposition normal="top left" duplicate="true" />
+        <textsize normal="21" duplicate="true" />
+        <texteffect normal="false" duplicate="true" />
+        <textstyle normal="bold" duplicate="true" />
+        <textcolour normal="72C0D4" duplicate="true" />
+      </xmlbutton>
+      <xmlbutton name="Body" >
+        <position x="60" y="40" />
+        <size width="610" height="75" />
+        <text normal="Body" duplicate="true" />
+        <textfont normal="Verdana" duplicate="true" />
+        <textposition normal="multiline" duplicate="true" />
+        <textsize normal="12" duplicate="true" />
+        <texteffect normal="false" duplicate="true" />
+        <textstyle normal="normal" duplicate="true" />
+        <textcolour normal="72C0D4" duplicate="true" />
+      </xmlbutton>
+    </page>
+  </pages>
+</BioWareApp>

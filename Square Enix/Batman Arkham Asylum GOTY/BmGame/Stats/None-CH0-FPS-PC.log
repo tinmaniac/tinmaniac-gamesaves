@@ -1,0 +1,74 @@
+Dumping FPS chart at 2010.12.12-15.31.59 using build 4701 built from changelist 198408
+Bucket:  0 -  5  Time:  0.00  Frame:  0.00
+Bucket:  5 - 10  Time:  0.00  Frame:  0.00
+Bucket: 10 - 15  Time:  0.06  Frame:  0.03
+Bucket: 15 - 20  Time:  3.19  Frame:  2.20
+Bucket: 20 - 25  Time: 15.39  Frame: 12.61
+Bucket: 25 - 30  Time: 67.69  Frame: 70.52
+Bucket: 30 - 35  Time: 13.67  Frame: 14.64
+Bucket: 35 - 40  Time:  0.00  Frame:  0.00
+Bucket: 40 - 45  Time:  0.00  Frame:  0.00
+Bucket: 45 - 50  Time:  0.00  Frame:  0.00
+Bucket: 50 - 55  Time:  0.00  Frame:  0.00
+Bucket: 55 - 60  Time:  0.00  Frame:  0.00
+Bucket: 60 - 99  Time:  0.00  Frame:  0.00
+3402 frames collected over 120.84 seconds, disregarding 0.04 seconds for a 28.16 FPS average, 13.67 percent of time spent > 30 FPS
+Average GPU frame time: 0.00 ms
+BoundGameThreadPct: 0.03  BoundRenderThreadPct: 39.15  BoundGPUPct: 46.18 PercentFrames30+: 14.638448   BoundGameTime: 0.027960  BoundRenderTime: 39.717121  BoundGPUTime: 46.555144  PctTimeAbove30: 13.669624 
+Hitch chart:
+Bucket: 5.00s - inf  Count: 0 
+Bucket: 2.50s - 5.00s  Count: 0 
+Bucket: 2.00s - 2.50s  Count: 0 
+Bucket: 1.50s - 2.00s  Count: 0 
+Bucket: 1.00s - 1.50s  Count: 0 
+Bucket: 0.75s - 1.00s  Count: 0 
+Bucket: 0.50s - 0.75s  Count: 0 
+Bucket: 0.30s - 0.50s  Count: 0 
+Bucket: 0.20s - 0.30s  Count: 0 
+Bucket: 0.15s - 0.20s  Count: 0 
+Bucket: 0.10s - 0.15s  Count: 0 
+Total hitch count (at least 100ms):  0
+Hitch frames bound by game thread:  0  (0.0%)
+Hitch frames bound by render thread:  0  (0.0%)
+Hitch frames bound by GPU:  0  (0.0%)
+
+
+
+
+Dumping FPS chart at 2010.12.12-15.33.34 using build 4701 built from changelist 198408
+Bucket:  0 -  5  Time:  0.00  Frame:  0.00
+Bucket:  5 - 10  Time:  0.25  Frame:  0.06
+Bucket: 10 - 15  Time:  0.00  Frame:  0.00
+Bucket: 15 - 20  Time:  0.62  Frame:  0.29
+Bucket: 20 - 25  Time:  3.77  Frame:  2.41
+Bucket: 25 - 30  Time: 16.86  Frame: 13.07
+Bucket: 30 - 35  Time: 17.31  Frame: 15.21
+Bucket: 35 - 40  Time: 34.67  Frame: 34.89
+Bucket: 40 - 45  Time: 10.28  Frame: 11.66
+Bucket: 45 - 50  Time:  6.34  Frame:  8.11
+Bucket: 50 - 55  Time:  8.17  Frame: 11.57
+Bucket: 55 - 60  Time:  1.55  Frame:  2.35
+Bucket: 60 - 99  Time:  0.18  Frame:  0.38
+3405 frames collected over 91.77 seconds, disregarding 0.03 seconds for a 37.11 FPS average, 78.50 percent of time spent > 30 FPS
+Average GPU frame time: 0.00 ms
+BoundGameThreadPct: 0.03  BoundRenderThreadPct: 6.70  BoundGPUPct: 9.10 PercentFrames30+: 84.170338   BoundGameTime: 0.045241  BoundRenderTime: 9.104559  BoundGPUTime: 12.345222  PctTimeAbove30: 78.498421 
+Hitch chart:
+Bucket: 5.00s - inf  Count: 0 
+Bucket: 2.50s - 5.00s  Count: 0 
+Bucket: 2.00s - 2.50s  Count: 0 
+Bucket: 1.50s - 2.00s  Count: 0 
+Bucket: 1.00s - 1.50s  Count: 0 
+Bucket: 0.75s - 1.00s  Count: 0 
+Bucket: 0.50s - 0.75s  Count: 0 
+Bucket: 0.30s - 0.50s  Count: 0 
+Bucket: 0.20s - 0.30s  Count: 0 
+Bucket: 0.15s - 0.20s  Count: 0 
+Bucket: 0.10s - 0.15s  Count: 2 
+Total hitch count (at least 100ms):  2
+Hitch frames bound by game thread:  0  (0.0%)
+Hitch frames bound by render thread:  1  (0.0%)
+Hitch frames bound by GPU:  1  (50.0%)
+
+
+
+
