@@ -1,0 +1,53 @@
+Log: Log file open, 12/20/10 13:45:00
+Log: Virtual  memory allocation size:   0.00 MByte (0 Bytes)
+Log: Physical memory allocation size:   0.00 MByte (0 Bytes)
+Log: Int MaxAnisotropy set to 2
+Log: Int MaxAnisotropy set to 4
+Log: Int MaxAnisotropy set to 8
+Log: Int MaxAnisotropy set to 16
+Log: Int MaxAnisotropy set to 0
+Log: Int MaxAnisotropy set to 2
+Log: Int MaxAnisotropy set to 4
+Log: Int MaxAnisotropy set to 8
+Log: Int MaxAnisotropy set to 16
+Log: Switch bEnablePSSMShadows set to 1
+Log: Switch DynamicDecals set to 1
+Log: Float FoliageDrawRadiusMultiplier set to 1.000000
+Log: Int TextureQuality set to 1
+Log: Int PopulationAdjustment set to 4294967276
+Log: Int TextureQuality set to 0
+Log: Int PopulationAdjustment set to 0
+Log: Switch AmbientOcclusion set to 1
+Log: Switch Bloom set to 1
+Log: Switch DepthOfField set to 1
+Log: Switch FlareOuts set to 1
+Log: Switch FlareOuts set to 0
+Log: Switch FlareOuts set to 1
+Log: Int ResX set to 1920
+Log: Int ResY set to 1080
+Log: Virtual  memory allocation size:   0.00 MByte (0 Bytes)
+Log: Physical memory allocation size:   0.00 MByte (0 Bytes)
+Log: PrepareMapChange is saving off level arid_intro_p to be loaded after transition to FakeEntry.
+Log: PrepareMapChange is saving off level arid_p to be loaded after transition to FakeEntry.
+Log: PrepareMapChange is saving off level arid_env to be loaded after transition to FakeEntry.
+Log: PrepareMapChange is saving off level Arid_Firestone to be loaded after transition to FakeEntry.
+Log: PrepareMapChange is saving off level Arid_Audio to be loaded after transition to FakeEntry.
+Log: PrepareMapChange is saving off level Arid_BusStop to be loaded after transition to FakeEntry.
+Log: PrepareMapChange is saving off level Arid_Mineshaft_Entrance to be loaded after transition to FakeEntry.
+Log: PrepareMapChange is saving off level arid_turbinestation to be loaded after transition to FakeEntry.
+Log: PrepareMapChange is saving off level arid_tunnel to be loaded after transition to FakeEntry.
+Log: PrepareMapChange is saving off level Arid_Farmstead to be loaded after transition to FakeEntry.
+Log: PrepareMapChange is saving off level Arid_Light to be loaded after transition to FakeEntry.
+Log: PrepareMapChange is saving off level Arid_p_spawnbox to be loaded after transition to FakeEntry.
+Log: Virtual  memory allocation size:   0.00 MByte (0 Bytes)
+Log: Physical memory allocation size:   0.00 MByte (0 Bytes)
+Log: Virtual  memory allocation size:   0.00 MByte (0 Bytes)
+Log: Physical memory allocation size:   0.00 MByte (0 Bytes)
+Log: Virtual  memory allocation size:   0.00 MByte (0 Bytes)
+Log: Physical memory allocation size:   0.00 MByte (0 Bytes)
+Log: Virtual  memory allocation size:   0.00 MByte (0 Bytes)
+Log: Physical memory allocation size:   0.00 MByte (0 Bytes)
+Log: Virtual  memory allocation size:   0.00 MByte (0 Bytes)
+Log: Physical memory allocation size:   0.00 MByte (0 Bytes)
+Log: Closing by request
+Log: Log file closed, 12/20/10 14:04:14
