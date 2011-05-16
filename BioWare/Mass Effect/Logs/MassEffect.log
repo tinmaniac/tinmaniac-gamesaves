@@ -1,1113 +1,192 @@
-[0.026] Log: Log file open, 04/04/10 19:41:48
-[0.026] Init: BioWare Final Build Version: 1.0.14184.0
-[0.026] Init: Command line: 
-[0.026] Init: Base directory: C:\Program Files (x86)\Mass Effect\Binaries\
-[0.068] Init: CPU Page size=4096, Processors=8
-[0.068] Init: High frequency timer resolution =2.607470 MHz
-[0.068] Init: Memory total: Phys=4194303K Pagef=4194303K Virt=2097024K
-[2.964] Log: Failed to load 'Material None.': Failed to find object 'Material None.'
-[2.964] Log: Failed to load 'Material None.': Failed to find object 'Material None.'
-[2.964] Log: Failed to load 'Material None.': Failed to find object 'Material None.'
-[2.964] Log: Failed to load 'Material None.': Failed to find object 'Material None.'
-[2.964] Log: Failed to load 'Material None.': Failed to find object 'Material None.'
-[2.966] Log: Failed to load 'Material None.': Failed to find object 'Material None.'
-[13.587] Init: Audio Driver: Digital Output (SoundMAX Integrated Digital HD Audio) ({0.0.0.00000000}.{8f23f0f6-7ecb-48aa-8e8e-0f0e8a8c138e})
-[13.851] Init: Audio Device: SPDIF Interface (SoundMAX Integrated Digital HD Audio)
-[13.979] Init: 60 Free Sources, 2 Reserved
-[14.871] Log: >>>>>>>>>>>>>> Initial startup: 14.87s <<<<<<<<<<<<<<<
-[15.269] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(1902, isNum=0), column(4) in Bio2DA(Talent_TalentEffectLevels)
-[15.269] Log: Bio2DA.cpp::CheckedGetFloatEntry(): Failed to read row(1918, isNum=0), column(4) in Bio2DA(Talent_TalentEffectLevels)
-[82.455] Log: Loading John00_34 on device Id 0...
-[82.652] Log: *** WARNING - PATHS MAY NOT BE VALID ***
-[83.095] BioChallengeScaling: UBioPawnBehavior::ScaleSecondaryAttributes: Warning! Attribute table could not be found! No scaling done for pawn 'BioPawn_7' with type 'human_male'.
-[83.096] Warning: Warning, bio2daprop::SetProperty: Could not find property named m_aspect in class BioGameEffectAttributeString. Object=BioGameEffectAttributeString_0
-[83.096] Warning: Warning, bio2daprop::SetProperty: Could not find property named m_modifier in class BioGameEffectAttributeString. Object=BioGameEffectAttributeString_0
-[83.096] Warning: Warning, bio2daprop::SetProperty: Could not find property named m_aspect in class BioGameEffectAttributeString. Object=BioGameEffectAttributeString_2
-[83.096] Warning: Warning, bio2daprop::SetProperty: Could not find property named m_modifier in class BioGameEffectAttributeString. Object=BioGameEffectAttributeString_2
-[83.097] Warning: Warning, bio2daprop::SetProperty: Could not find property named m_aspect in class BioGameEffectAttributeString. Object=BioGameEffectAttributeString_4
-[83.097] Warning: Warning, bio2daprop::SetProperty: Could not find property named m_modifier in class BioGameEffectAttributeString. Object=BioGameEffectAttributeString_4
-[83.098] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(1902, isNum=0), column(4) in Bio2DA(Talent_TalentEffectLevels)
-[83.098] Log: Bio2DA.cpp::CheckedGetFloatEntry(): Failed to read row(1918, isNum=0), column(4) in Bio2DA(Talent_TalentEffectLevels)
-[83.273] BioChallengeScaling: UBioPawnBehavior::ScaleSecondaryAttributes: Warning! Attribute table could not be found! No scaling done for pawn 'BioPawn_8' with type 'hench_krogan'.
-[83.284] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(197, isNum=0), column(10) in Bio2DA(Talent_TalentEffectLevels)
-[83.284] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(168, isNum=0), column(6) in Bio2DA(Talent_TalentEffectLevels)
-[83.412] BioChallengeScaling: UBioPawnBehavior::ScaleSecondaryAttributes: Warning! Attribute table could not be found! No scaling done for pawn 'BioPawn_9' with type 'hench_turian'.
-[84.489] Warning: Warning, attribute (m_nMaxTargetZones) is of a type that we can't handle
-[84.494] Log: Attribs is NULL!
-[84.494] Log: Attribs is NULL!
-[84.494] Log: Bio2DA.cpp::CheckedGetNameEntry(): Failed to read row(56, isNum=0), column(6) in Bio2DA(Items_Items)
-[84.495] Log: Attribs is NULL!
-[84.495] Log: Attribs is NULL!
-[84.495] Log: Bio2DA.cpp::CheckedGetNameEntry(): Failed to read row(57, isNum=0), column(6) in Bio2DA(Items_Items)
-[84.495] Log: Attribs is NULL!
-[84.495] Log: Attribs is NULL!
-[84.496] Log: Attribs is NULL!
-[85.442] Warning: Warning, attribute (m_nMaxTargetZones) is of a type that we can't handle
-[85.443] Log: Attribs is NULL!
-[85.443] Log: Attribs is NULL!
-[85.443] Log: Bio2DA.cpp::CheckedGetNameEntry(): Failed to read row(57, isNum=0), column(6) in Bio2DA(Items_Items)
-[85.443] Log: Attribs is NULL!
-[85.443] Log: Attribs is NULL!
-[85.443] Log: Bio2DA.cpp::CheckedGetNameEntry(): Failed to read row(56, isNum=0), column(6) in Bio2DA(Items_Items)
-[85.444] Log: Attribs is NULL!
-[85.444] Log: Attribs is NULL!
-[85.444] Log: Attribs is NULL!
-[250.795] Log: Loading John00_34 on device Id 0...
-[251.044] Log: *** WARNING - PATHS MAY NOT BE VALID ***
-[251.488] BioChallengeScaling: UBioPawnBehavior::ScaleSecondaryAttributes: Warning! Attribute table could not be found! No scaling done for pawn 'BioPawn_10' with type 'human_male'.
-[251.490] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(1902, isNum=0), column(4) in Bio2DA(Talent_TalentEffectLevels)
-[251.490] Log: Bio2DA.cpp::CheckedGetFloatEntry(): Failed to read row(1918, isNum=0), column(4) in Bio2DA(Talent_TalentEffectLevels)
-[251.665] BioChallengeScaling: UBioPawnBehavior::ScaleSecondaryAttributes: Warning! Attribute table could not be found! No scaling done for pawn 'BioPawn_11' with type 'hench_krogan'.
-[251.675] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(197, isNum=0), column(10) in Bio2DA(Talent_TalentEffectLevels)
-[251.675] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(168, isNum=0), column(6) in Bio2DA(Talent_TalentEffectLevels)
-[251.803] BioChallengeScaling: UBioPawnBehavior::ScaleSecondaryAttributes: Warning! Attribute table could not be found! No scaling done for pawn 'BioPawn_12' with type 'hench_turian'.
-[252.649] Warning: Warning, attribute (m_nMaxTargetZones) is of a type that we can't handle
-[252.654] Log: Attribs is NULL!
-[252.654] Log: Attribs is NULL!
-[252.654] Log: Bio2DA.cpp::CheckedGetNameEntry(): Failed to read row(56, isNum=0), column(6) in Bio2DA(Items_Items)
-[252.654] Log: Attribs is NULL!
-[252.654] Log: Attribs is NULL!
-[252.655] Log: Bio2DA.cpp::CheckedGetNameEntry(): Failed to read row(57, isNum=0), column(6) in Bio2DA(Items_Items)
-[252.655] Log: Attribs is NULL!
-[252.655] Log: Attribs is NULL!
-[252.656] Log: Attribs is NULL!
-[253.034] Warning: Warning, attribute (m_nMaxTargetZones) is of a type that we can't handle
-[253.035] Log: Attribs is NULL!
-[253.035] Log: Attribs is NULL!
-[253.035] Log: Bio2DA.cpp::CheckedGetNameEntry(): Failed to read row(57, isNum=0), column(6) in Bio2DA(Items_Items)
-[253.036] Log: Attribs is NULL!
-[253.036] Log: Attribs is NULL!
-[253.036] Log: Bio2DA.cpp::CheckedGetNameEntry(): Failed to read row(56, isNum=0), column(6) in Bio2DA(Items_Items)
-[253.036] Log: Attribs is NULL!
-[253.036] Log: Attribs is NULL!
-[253.037] Log: Attribs is NULL!
-[297.766] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(580, isNum=0), column(7) in Bio2DA(Talent_TalentEffectLevels)
-[297.767] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(580, isNum=0), column(7) in Bio2DA(Talent_TalentEffectLevels)
-[297.768] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(580, isNum=0), column(7) in Bio2DA(Talent_TalentEffectLevels)
-[297.769] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(580, isNum=0), column(7) in Bio2DA(Talent_TalentEffectLevels)
-[297.770] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(580, isNum=0), column(7) in Bio2DA(Talent_TalentEffectLevels)
-[297.771] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(580, isNum=0), column(7) in Bio2DA(Talent_TalentEffectLevels)
-[297.772] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(-1, isNum=0), column(2) in Bio2DA(Treasure_Tables_PlotItems)
-[297.781] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(-1, isNum=0), column(2) in Bio2DA(Treasure_Tables_PlotItems)
-[297.801] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(-1, isNum=0), column(2) in Bio2DA(Treasure_Tables_PlotItems)
-[297.811] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(580, isNum=0), column(7) in Bio2DA(Talent_TalentEffectLevels)
-[297.812] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(580, isNum=0), column(7) in Bio2DA(Talent_TalentEffectLevels)
-[297.813] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(580, isNum=0), column(7) in Bio2DA(Talent_TalentEffectLevels)
-[297.813] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(580, isNum=0), column(7) in Bio2DA(Talent_TalentEffectLevels)
-[297.816] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(647, isNum=0), column(9) in Bio2DA(Talent_TalentEffectLevels)
-[297.816] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(649, isNum=0), column(9) in Bio2DA(Talent_TalentEffectLevels)
-[355.935] Log: Trying to advance a quest to a task that has already been accomplished for this quest
-[355.935] Log: Trying to advance a quest to a task that has already been accomplished for this quest
-[6127.176] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[6127.176] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[6160.173] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[6160.179] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[6160.179] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[6169.769] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[6170.833] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[6170.834] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[6179.012] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[6179.017] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[6179.018] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[6189.544] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[6189.545] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[6199.799] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[6199.803] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[6199.804] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[6202.428] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[6204.477] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[6212.792] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[6217.610] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[6331.528] Warning: Warning, UBioSeqData_StartFiring::OnTick(): weapon is NULL...bailing
-[6335.232] Warning: Warning, UBioSeqData_StartFiring::OnTick(): weapon is NULL...bailing
-[6335.340] Warning: Warning, UBioSeqData_StartFiring::OnTick(): weapon is NULL...bailing
-[6337.044] Warning: Warning, UBioSeqData_StartFiring::OnTick(): weapon is NULL...bailing
-[6337.149] Warning: Warning, UBioSeqData_StartFiring::OnTick(): weapon is NULL...bailing
-[6342.877] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(238, isNum=0), column(4) in Bio2DA(Talent_TalentEffectLevels)
-[6349.189] Error: Error, Attempting to unpause deleted VFX! name=BIOA_UNC17.TheWorld:PersistentLevel.BioVisualEffect_525 template=BIOG_APL_INT_G_Hex_Barrier_01_L.VFX.SheildSpawn03
-[6352.868] Error: Error, Attempting to unpause deleted VFX! name=BIOA_UNC17.TheWorld:PersistentLevel.BioVisualEffect_550 template=BIOG_APL_INT_G_Hex_Barrier_01_L.VFX.ShieldSmash03
-[6390.508] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[6390.508] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[6390.508] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[6390.508] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[6390.509] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[6390.509] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[6390.509] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[6390.509] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[6488.467] Log: Save took 0.27s to complete.
-[6488.467] Log: Saved John00_35 on device Id 1
-[6689.342] BioChallengeScaling: UBioPawnBehavior::ScaleSecondaryAttributes: Warning! Attribute table could not be found! No scaling done for pawn 'BioPawn_24' with type 'human_male'.
-[6689.346] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(1902, isNum=0), column(4) in Bio2DA(Talent_TalentEffectLevels)
-[6689.346] Log: Bio2DA.cpp::CheckedGetFloatEntry(): Failed to read row(1918, isNum=0), column(4) in Bio2DA(Talent_TalentEffectLevels)
-[6693.366] Log: Save took 0.31s to complete.
-[6746.984] BioChallengeScaling: UBioPawnBehavior::LoadEquipment - Warning! The pawn 'BioPawn_6' has no equipment table!
-[6747.033] BioChallengeScaling: UBioPawnBehavior::LoadEquipment - Warning! The pawn 'BioPawn_8' has no equipment table!
-[6759.207] BioChallengeScaling: UBioPawnBehavior::LoadEquipment - Warning! The pawn 'BioPawn_2' has no equipment table!
-[6759.207] BioChallengeScaling: UBioPawnBehavior::LoadEquipment - Warning! The pawn 'BioPawn_5' has no equipment table!
-[6759.207] BioChallengeScaling: UBioPawnBehavior::LoadEquipment - Warning! The pawn 'BioPawn_0' has no equipment table!
-[6759.274] Log: RescueStuckPawn BioPawn_0 adjusting position from <-4640.9316, 13953.7900, -37403.0352> to <-4640.9316, 14031.7324, -37405.0352>
-[6861.828] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[6861.828] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[6861.829] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[6861.829] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[6861.829] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[6861.829] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[6861.830] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[6861.830] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[6861.830] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[6861.831] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[6861.831] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[6861.831] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[6861.831] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7338.548] BioChallengeScaling: UBioPawnBehavior::ScaleSecondaryAttributes: Warning! Attribute table could not be found! No scaling done for pawn 'BioPawn_27' with type 'hench_quarian'.
-[7338.559] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(284, isNum=0), column(9) in Bio2DA(Talent_TalentEffectLevels)
-[7353.459] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7353.464] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7353.464] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7353.465] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7353.465] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7353.465] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7363.075] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7363.075] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7363.076] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7363.076] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7363.076] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7367.237] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7367.242] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7367.242] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7367.242] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7367.243] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7367.243] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7371.933] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7371.934] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7371.934] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7371.934] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7375.418] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7387.132] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7387.132] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7387.133] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7387.133] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7391.404] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7391.404] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7391.404] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7391.404] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7429.467] BioChallengeScaling: UBioPawnBehavior::ScaleSecondaryAttributes: Warning! Attribute table could not be found! No scaling done for pawn 'BioPawn_29' with type 'hench_humanfemale'.
-[7452.031] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7452.031] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7452.031] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7452.032] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7458.225] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7458.225] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7458.225] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7458.226] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7462.035] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7462.036] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7462.036] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7462.036] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7466.324] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7466.324] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7466.324] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7466.324] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7477.457] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7477.457] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7477.457] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7477.457] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7482.857] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7482.857] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7482.857] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7710.931] BioChallengeScaling: UBioPawnBehavior::ScaleSecondaryAttributes: Warning! Attribute table could not be found! No scaling done for pawn 'BioPawn_31' with type 'hench_humanfemale'.
-[7747.601] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7747.602] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7747.602] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7747.602] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7747.602] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7747.603] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7747.603] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7747.603] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7747.603] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[7747.604] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[8707.171] Log: Action Station failed to Activate as the pawn involved is already in an action station.
-[8918.383] Log: Save took 0.31s to complete.
-[8918.383] Log: Saved John00_36 on device Id 1
-[9111.672] Log: Trying to advance a quest to a task that has already been accomplished for this quest
-[9111.672] Log: Trying to advance a quest to a task that has already been accomplished for this quest
-[9130.098] Log: Trying to advance a quest to a task that has already been accomplished for this quest
-[9130.098] Log: Trying to advance a quest to a task that has already been accomplished for this quest
-[9512.096] BioChallengeScaling: UBioPawnBehavior::ScaleSecondaryAttributes: Warning! Attribute table could not be found! No scaling done for pawn 'BioPawn_33' with type 'human_male'.
-[9512.101] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(1902, isNum=0), column(4) in Bio2DA(Talent_TalentEffectLevels)
-[9512.101] Log: Bio2DA.cpp::CheckedGetFloatEntry(): Failed to read row(1918, isNum=0), column(4) in Bio2DA(Talent_TalentEffectLevels)
-[9513.275] Warning: Warning, attribute (m_nMaxTargetZones) is of a type that we can't handle
-[9513.280] Log: Attribs is NULL!
-[9513.280] Log: Attribs is NULL!
-[9513.280] Log: Bio2DA.cpp::CheckedGetNameEntry(): Failed to read row(56, isNum=0), column(6) in Bio2DA(Items_Items)
-[9513.280] Log: Attribs is NULL!
-[9513.280] Log: Attribs is NULL!
-[9513.280] Log: Bio2DA.cpp::CheckedGetNameEntry(): Failed to read row(57, isNum=0), column(6) in Bio2DA(Items_Items)
-[9513.280] Log: Attribs is NULL!
-[9513.280] Log: Attribs is NULL!
-[9513.281] Log: Attribs is NULL!
-[9549.017] Log: Failed to preload initial sounds for matinee BIOA_UNC51_CIN.TheWorld:PersistentLevel.Main_Sequence.UNCRoverCutscene.ANIMCUTSCENE_GLO_RoverDrop_1.InterpData_0
-[9549.017] Log: Failed to preload initial sounds for matinee BIOA_UNC51_CIN.TheWorld:PersistentLevel.Main_Sequence.UNCRoverCutscene.ANIMCUTSCENE_GLO_RoverLand_1.InterpData_1
-[9549.308] BioChallengeScaling: UBioPawnBehavior::ScaleSecondaryAttributes: Warning! Attribute table could not be found! No scaling done for pawn 'BioPawn_34' with type 'hench_humanfemale'.
-[9549.513] BioChallengeScaling: UBioPawnBehavior::ScaleSecondaryAttributes: Warning! Attribute table could not be found! No scaling done for pawn 'BioPawn_35' with type 'hench_quarian'.
-[9549.524] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(284, isNum=0), column(9) in Bio2DA(Talent_TalentEffectLevels)
-[9563.249] Warning: Warning, attribute (m_nMaxTargetZones) is of a type that we can't handle
-[9563.251] Log: Attribs is NULL!
-[9563.251] Log: Attribs is NULL!
-[9563.251] Log: Bio2DA.cpp::CheckedGetNameEntry(): Failed to read row(57, isNum=0), column(6) in Bio2DA(Items_Items)
-[9563.251] Log: Attribs is NULL!
-[9563.251] Log: Attribs is NULL!
-[9563.251] Log: Bio2DA.cpp::CheckedGetNameEntry(): Failed to read row(56, isNum=0), column(6) in Bio2DA(Items_Items)
-[9563.252] Log: Attribs is NULL!
-[9563.252] Log: Attribs is NULL!
-[9563.252] Log: Attribs is NULL!
-[9563.700] Log: Save took 0.35s to complete.
-[9597.108] Log: Save took 0.25s to complete.
-[9597.108] Log: Saved John00_37 on device Id 1
-[9672.590] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[9672.591] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[10149.370] Warning: Warning,  UBioAFComponent::GetOwnersTargetBehavior(): Owner is null or owner target is null
-[10206.745] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[10206.750] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[10206.750] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[10206.750] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[10217.281] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[10217.281] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[10222.287] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[10235.639] Log: Save took 0.30s to complete.
-[10235.639] Log: Saved John00_38 on device Id 1
-[10308.561] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_9936" is assigned to group 21,but not registered with this container's collection of groups.
-[10308.561] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_9937" is assigned to group 22,but not registered with this container's collection of groups.
-[10308.561] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_9939" is assigned to group 24,but not registered with this container's collection of groups.
-[10308.564] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_9943" is assigned to group 21,but not registered with this container's collection of groups.
-[10308.564] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_9944" is assigned to group 22,but not registered with this container's collection of groups.
-[10308.564] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_9946" is assigned to group 24,but not registered with this container's collection of groups.
-[10308.565] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_9951" is assigned to group 21,but not registered with this container's collection of groups.
-[10308.565] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_9952" is assigned to group 22,but not registered with this container's collection of groups.
-[10308.565] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_9954" is assigned to group 24,but not registered with this container's collection of groups.
-[10346.235] Log: Loading John00_38 on device Id 0...
-[10346.966] BioChallengeScaling: UBioPawnBehavior::ScaleSecondaryAttributes: Warning! Attribute table could not be found! No scaling done for pawn 'BioPawn_48' with type 'human_male'.
-[10346.971] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(1902, isNum=0), column(4) in Bio2DA(Talent_TalentEffectLevels)
-[10346.971] Log: Bio2DA.cpp::CheckedGetFloatEntry(): Failed to read row(1918, isNum=0), column(4) in Bio2DA(Talent_TalentEffectLevels)
-[10347.170] BioChallengeScaling: UBioPawnBehavior::ScaleSecondaryAttributes: Warning! Attribute table could not be found! No scaling done for pawn 'BioPawn_49' with type 'hench_humanfemale'.
-[10347.289] BioChallengeScaling: UBioPawnBehavior::ScaleSecondaryAttributes: Warning! Attribute table could not be found! No scaling done for pawn 'BioPawn_50' with type 'hench_quarian'.
-[10347.299] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(284, isNum=0), column(9) in Bio2DA(Talent_TalentEffectLevels)
-[10376.439] Warning: Warning,  UBioAFComponent::GetOwnersTargetBehavior(): Owner is null or owner target is null
-[10626.297] Log: RescueStuckPawn BioPawn_49 adjusting position from <1899.7682, -125592.8516, -156737.9844> to <1899.7682, -125670.7969, -156739.9219>
-[10650.807] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_12022" is assigned to group 21,but not registered with this container's collection of groups.
-[10650.807] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_12023" is assigned to group 22,but not registered with this container's collection of groups.
-[10650.807] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_12025" is assigned to group 24,but not registered with this container's collection of groups.
-[10650.807] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_12029" is assigned to group 21,but not registered with this container's collection of groups.
-[10650.807] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_12030" is assigned to group 22,but not registered with this container's collection of groups.
-[10650.808] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_12032" is assigned to group 24,but not registered with this container's collection of groups.
-[10696.581] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_12059" is assigned to group 21,but not registered with this container's collection of groups.
-[10696.581] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_12060" is assigned to group 22,but not registered with this container's collection of groups.
-[10696.581] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_12062" is assigned to group 24,but not registered with this container's collection of groups.
-[10696.583] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_12066" is assigned to group 21,but not registered with this container's collection of groups.
-[10696.583] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_12067" is assigned to group 22,but not registered with this container's collection of groups.
-[10696.583] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_12069" is assigned to group 24,but not registered with this container's collection of groups.
-[10741.812] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_12081" is assigned to group 21,but not registered with this container's collection of groups.
-[10741.812] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_12082" is assigned to group 22,but not registered with this container's collection of groups.
-[10741.812] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_12084" is assigned to group 24,but not registered with this container's collection of groups.
-[10741.813] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_12088" is assigned to group 21,but not registered with this container's collection of groups.
-[10741.813] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_12089" is assigned to group 22,but not registered with this container's collection of groups.
-[10741.813] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_12091" is assigned to group 24,but not registered with this container's collection of groups.
-[11290.323] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11290.323] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11290.323] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11290.323] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11290.324] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11290.324] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11290.324] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11290.324] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11290.324] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11290.325] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11290.325] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11290.325] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11290.325] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11298.052] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11298.053] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11298.053] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11298.053] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11298.053] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11298.053] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11298.054] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11298.054] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11298.054] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11298.054] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11298.055] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11314.719] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11314.719] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11314.719] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11314.720] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11314.720] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11314.720] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11314.720] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11314.720] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11314.721] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11314.721] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11314.721] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11324.972] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11324.972] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11324.972] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11324.973] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11324.973] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11324.973] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11324.973] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11324.973] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11324.974] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11324.974] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11324.974] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11329.879] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11329.879] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11329.879] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11329.879] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11329.879] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11329.880] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11329.880] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11329.880] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11329.880] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11329.880] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11329.881] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11363.130] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11363.130] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11363.130] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11363.130] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11363.131] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11363.131] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11363.131] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11363.131] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11363.131] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11363.132] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11363.132] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11366.420] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11366.420] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11366.421] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11366.421] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11366.421] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11366.421] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11366.422] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11366.422] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11366.422] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11366.422] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11366.422] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[11380.965] Log: Save took 0.30s to complete.
-[11380.965] Log: Saved John00_39 on device Id 1
-[11464.886] Warning: Warning, attribute (m_nMaxTargetZones) is of a type that we can't handle
-[11464.888] Log: Attribs is NULL!
-[11464.888] Log: Attribs is NULL!
-[11464.888] Log: Bio2DA.cpp::CheckedGetNameEntry(): Failed to read row(56, isNum=0), column(6) in Bio2DA(Items_Items)
-[11464.888] Log: Attribs is NULL!
-[11464.888] Log: Attribs is NULL!
-[11464.888] Log: Bio2DA.cpp::CheckedGetNameEntry(): Failed to read row(57, isNum=0), column(6) in Bio2DA(Items_Items)
-[11464.888] Log: Attribs is NULL!
-[11464.888] Log: Attribs is NULL!
-[11464.889] Log: Attribs is NULL!
-[11487.915] Warning: Warning, Unable to find conversation speaker to set local variable.
-[11490.479] Warning: Warning, Unable to find conversation speaker to set local variable.
-[11493.544] Warning: Warning, Unable to find conversation speaker to set local variable.
-[11498.904] Warning: Warning,  UBioAFComponent::GetOwnersTargetBehavior(): Owner is null or owner target is null
-[11500.349] Log: RescueStuckPawn BioPawn_49 adjusting position from <4430.2554, 5448.1426, -100981.7656> to <4430.2554, 5370.2002, -100983.7656>
-[11757.941] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_17077" is assigned to group 21,but not registered with this container's collection of groups.
-[11757.941] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_17078" is assigned to group 22,but not registered with this container's collection of groups.
-[11757.941] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_17080" is assigned to group 24,but not registered with this container's collection of groups.
-[11807.716] Log: Loading John00_39 on device Id 0...
-[11808.450] BioChallengeScaling: UBioPawnBehavior::ScaleSecondaryAttributes: Warning! Attribute table could not be found! No scaling done for pawn 'BioPawn_77' with type 'human_male'.
-[11808.457] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(1902, isNum=0), column(4) in Bio2DA(Talent_TalentEffectLevels)
-[11808.457] Log: Bio2DA.cpp::CheckedGetFloatEntry(): Failed to read row(1918, isNum=0), column(4) in Bio2DA(Talent_TalentEffectLevels)
-[11808.658] BioChallengeScaling: UBioPawnBehavior::ScaleSecondaryAttributes: Warning! Attribute table could not be found! No scaling done for pawn 'BioPawn_78' with type 'hench_humanfemale'.
-[11808.777] BioChallengeScaling: UBioPawnBehavior::ScaleSecondaryAttributes: Warning! Attribute table could not be found! No scaling done for pawn 'BioPawn_79' with type 'hench_quarian'.
-[11808.787] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(284, isNum=0), column(9) in Bio2DA(Talent_TalentEffectLevels)
-[11858.280] Warning: Warning, attribute (m_nMaxTargetZones) is of a type that we can't handle
-[11858.282] Log: Attribs is NULL!
-[11858.282] Log: Attribs is NULL!
-[11858.282] Log: Bio2DA.cpp::CheckedGetNameEntry(): Failed to read row(56, isNum=0), column(6) in Bio2DA(Items_Items)
-[11858.282] Log: Attribs is NULL!
-[11858.282] Log: Attribs is NULL!
-[11858.282] Log: Bio2DA.cpp::CheckedGetNameEntry(): Failed to read row(57, isNum=0), column(6) in Bio2DA(Items_Items)
-[11858.283] Log: Attribs is NULL!
-[11858.283] Log: Attribs is NULL!
-[11858.284] Log: Attribs is NULL!
-[11886.115] Log: RescueStuckPawn BioPawn_78 adjusting position from <4431.0337, 5447.8467, -100981.7656> to <4431.0337, 5369.9043, -100983.7656>
-[11916.347] Warning: Warning,  UBioAFComponent::GetOwnersTargetBehavior(): Owner is null or owner target is null
-[12021.490] Log: Save took 0.31s to complete.
-[12021.490] Log: Saved John00_40 on device Id 1
-[12091.255] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_20498" is assigned to group 21,but not registered with this container's collection of groups.
-[12091.255] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_20499" is assigned to group 22,but not registered with this container's collection of groups.
-[12091.255] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_20501" is assigned to group 24,but not registered with this container's collection of groups.
-[12134.580] Log: Loading John00_40 on device Id 0...
-[12135.313] BioChallengeScaling: UBioPawnBehavior::ScaleSecondaryAttributes: Warning! Attribute table could not be found! No scaling done for pawn 'BioPawn_93' with type 'human_male'.
-[12135.319] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(1902, isNum=0), column(4) in Bio2DA(Talent_TalentEffectLevels)
-[12135.319] Log: Bio2DA.cpp::CheckedGetFloatEntry(): Failed to read row(1918, isNum=0), column(4) in Bio2DA(Talent_TalentEffectLevels)
-[12135.520] BioChallengeScaling: UBioPawnBehavior::ScaleSecondaryAttributes: Warning! Attribute table could not be found! No scaling done for pawn 'BioPawn_94' with type 'hench_humanfemale'.
-[12135.639] BioChallengeScaling: UBioPawnBehavior::ScaleSecondaryAttributes: Warning! Attribute table could not be found! No scaling done for pawn 'BioPawn_95' with type 'hench_quarian'.
-[12135.649] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(284, isNum=0), column(9) in Bio2DA(Talent_TalentEffectLevels)
-[13509.553] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_21540" is assigned to group 21,but not registered with this container's collection of groups.
-[13509.553] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_21541" is assigned to group 22,but not registered with this container's collection of groups.
-[13509.554] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_21543" is assigned to group 24,but not registered with this container's collection of groups.
-[13509.555] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_21547" is assigned to group 21,but not registered with this container's collection of groups.
-[13509.555] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_21548" is assigned to group 22,but not registered with this container's collection of groups.
-[13509.555] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_21550" is assigned to group 24,but not registered with this container's collection of groups.
-[13509.556] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_21554" is assigned to group 21,but not registered with this container's collection of groups.
-[13509.556] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_21555" is assigned to group 22,but not registered with this container's collection of groups.
-[13509.556] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_21557" is assigned to group 24,but not registered with this container's collection of groups.
-[13509.557] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_21561" is assigned to group 21,but not registered with this container's collection of groups.
-[13509.557] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_21562" is assigned to group 22,but not registered with this container's collection of groups.
-[13509.557] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_21564" is assigned to group 24,but not registered with this container's collection of groups.
-[13563.677] Log: Loading John00_40 on device Id 0...
-[13564.401] BioChallengeScaling: UBioPawnBehavior::ScaleSecondaryAttributes: Warning! Attribute table could not be found! No scaling done for pawn 'BioPawn_99' with type 'human_male'.
-[13564.408] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(1902, isNum=0), column(4) in Bio2DA(Talent_TalentEffectLevels)
-[13564.408] Log: Bio2DA.cpp::CheckedGetFloatEntry(): Failed to read row(1918, isNum=0), column(4) in Bio2DA(Talent_TalentEffectLevels)
-[13564.608] BioChallengeScaling: UBioPawnBehavior::ScaleSecondaryAttributes: Warning! Attribute table could not be found! No scaling done for pawn 'BioPawn_100' with type 'hench_humanfemale'.
-[13564.728] BioChallengeScaling: UBioPawnBehavior::ScaleSecondaryAttributes: Warning! Attribute table could not be found! No scaling done for pawn 'BioPawn_101' with type 'hench_quarian'.
-[13564.738] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(284, isNum=0), column(9) in Bio2DA(Talent_TalentEffectLevels)
-[13643.241] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_22638" is assigned to group 21,but not registered with this container's collection of groups.
-[13643.241] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_22639" is assigned to group 22,but not registered with this container's collection of groups.
-[13643.241] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_22641" is assigned to group 24,but not registered with this container's collection of groups.
-[13643.242] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_22645" is assigned to group 21,but not registered with this container's collection of groups.
-[13643.242] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_22646" is assigned to group 22,but not registered with this container's collection of groups.
-[13643.243] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_22648" is assigned to group 24,but not registered with this container's collection of groups.
-[13643.243] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_22652" is assigned to group 21,but not registered with this container's collection of groups.
-[13643.243] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_22653" is assigned to group 22,but not registered with this container's collection of groups.
-[13643.243] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_22655" is assigned to group 24,but not registered with this container's collection of groups.
-[13643.244] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_22659" is assigned to group 21,but not registered with this container's collection of groups.
-[13643.244] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_22660" is assigned to group 22,but not registered with this container's collection of groups.
-[13643.244] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_22662" is assigned to group 24,but not registered with this container's collection of groups.
-[13643.244] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_22667" is assigned to group 21,but not registered with this container's collection of groups.
-[13643.244] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_22668" is assigned to group 22,but not registered with this container's collection of groups.
-[13643.244] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_22670" is assigned to group 24,but not registered with this container's collection of groups.
-[13712.445] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_22715" is assigned to group 21,but not registered with this container's collection of groups.
-[13712.446] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_22716" is assigned to group 22,but not registered with this container's collection of groups.
-[13712.446] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_22718" is assigned to group 24,but not registered with this container's collection of groups.
-[13712.446] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_22722" is assigned to group 21,but not registered with this container's collection of groups.
-[13712.447] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_22723" is assigned to group 22,but not registered with this container's collection of groups.
-[13712.447] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_22725" is assigned to group 24,but not registered with this container's collection of groups.
-[13873.961] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13873.961] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13873.961] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13873.961] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13873.962] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13873.962] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13873.962] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13873.962] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13873.962] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13873.963] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13873.963] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13873.963] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13904.538] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13904.538] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13904.538] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13904.538] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13904.539] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13904.539] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13904.539] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13904.539] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13904.549] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13904.549] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13904.549] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13904.550] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13904.550] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13904.550] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13904.550] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13904.551] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13904.551] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13904.551] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13912.067] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13912.067] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13912.067] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13912.068] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13912.068] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13912.068] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13912.068] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13912.068] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13912.069] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13912.069] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13916.571] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13916.572] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13916.572] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13916.572] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13916.572] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13916.572] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13916.572] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13916.573] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13916.582] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13916.583] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13916.583] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13916.583] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13916.583] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13916.584] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13916.584] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13916.584] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13916.584] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13916.585] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13921.325] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13921.326] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13921.326] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13921.326] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13921.326] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13921.327] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13921.327] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13921.327] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13921.327] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13921.327] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13925.772] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13925.772] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13925.773] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13925.773] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13925.773] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13925.773] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13925.773] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13925.774] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13925.783] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13925.784] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13925.784] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13925.784] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13925.784] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13925.785] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13925.785] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13925.785] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13925.785] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13925.785] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13945.416] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13945.416] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13945.416] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13945.417] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13945.417] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13945.417] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13945.417] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13945.417] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13945.418] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13945.418] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13949.362] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13949.362] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13949.362] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13949.362] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13949.363] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13949.363] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13949.363] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13949.363] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13949.373] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13949.373] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13949.374] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13949.374] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13949.374] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13949.374] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13949.375] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13949.375] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13949.375] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13949.375] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13963.697] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13963.697] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13963.698] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13963.698] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13963.698] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13963.699] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13963.699] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13963.699] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13963.699] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13963.699] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13972.766] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13972.766] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13972.766] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13972.766] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13972.767] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13972.767] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13972.767] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13972.767] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13972.777] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13972.777] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13972.777] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13972.778] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13972.778] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13972.778] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13972.778] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13972.779] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13972.779] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13972.779] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[13992.632] Log: Save took 0.31s to complete.
-[13992.632] Log: Saved John00_41 on device Id 1
-[14102.736] Error: Error, Attempting to unpause deleted VFX! name=BIOA_UNC51.TheWorld:PersistentLevel.BioVisualEffect_2193 template=BIOG_APL_INT_G_Hex_Barrier_01_L.VFX.ShieldSmash03
-[14138.176] Error: Error, Attempting to unpause deleted VFX! name=BIOA_UNC51.TheWorld:PersistentLevel.BioVisualEffect_2212 template=BIOG_APL_INT_G_Hex_Barrier_01_L.VFX.ShieldSmash03
-[14153.612] Error: Error, Attempting to unpause deleted VFX! name=BIOA_UNC51.TheWorld:PersistentLevel.BioVisualEffect_2215 template=BIOG_APL_INT_G_Hex_Barrier_01_L.VFX.ShieldSmash03
-[14326.285] Error: Error, Attempting to unpause deleted VFX! name=BIOA_UNC51.TheWorld:PersistentLevel.BioVisualEffect_2249 template=BIOG_APL_INT_G_Hex_Barrier_01_L.VFX.ShieldSmash03
-[14345.898] Error: Error, Attempting to unpause deleted VFX! name=BIOA_UNC51.TheWorld:PersistentLevel.BioVisualEffect_2250 template=BIOG_APL_INT_G_Hex_Barrier_01_L.VFX.ShieldSmash03
-[14359.386] Warning: Warning,  UBioAFComponent::GetOwnersTargetBehavior(): Owner is null or owner target is null
-[14360.373] Warning: Warning, attribute (m_nMaxTargetZones) is of a type that we can't handle
-[14360.374] Log: Attribs is NULL!
-[14360.374] Log: Attribs is NULL!
-[14360.374] Log: Bio2DA.cpp::CheckedGetNameEntry(): Failed to read row(56, isNum=0), column(6) in Bio2DA(Items_Items)
-[14360.375] Log: Attribs is NULL!
-[14360.375] Log: Attribs is NULL!
-[14360.375] Log: Bio2DA.cpp::CheckedGetNameEntry(): Failed to read row(57, isNum=0), column(6) in Bio2DA(Items_Items)
-[14360.375] Log: Attribs is NULL!
-[14360.375] Log: Attribs is NULL!
-[14360.376] Log: Attribs is NULL!
-[14411.073] Warning: Warning,  UBioAFComponent::GetOwnersTargetBehavior(): Owner is null or owner target is null
-[14500.912] Log: RescueStuckPawn BioPawn_100 adjusting position from <2283.5862, -71310.0313, -137857.0625> to <2283.5862, -71387.9766, -137859.0000>
-[14509.144] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_25416" is assigned to group 21,but not registered with this container's collection of groups.
-[14509.144] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_25417" is assigned to group 22,but not registered with this container's collection of groups.
-[14509.144] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_25419" is assigned to group 24,but not registered with this container's collection of groups.
-[14509.145] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_25423" is assigned to group 21,but not registered with this container's collection of groups.
-[14509.145] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_25424" is assigned to group 22,but not registered with this container's collection of groups.
-[14509.145] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_25426" is assigned to group 24,but not registered with this container's collection of groups.
-[14509.147] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_25431" is assigned to group 21,but not registered with this container's collection of groups.
-[14509.147] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_25432" is assigned to group 22,but not registered with this container's collection of groups.
-[14509.147] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_25434" is assigned to group 24,but not registered with this container's collection of groups.
-[14549.260] Log: Loading John00_41 on device Id 0...
-[14549.990] BioChallengeScaling: UBioPawnBehavior::ScaleSecondaryAttributes: Warning! Attribute table could not be found! No scaling done for pawn 'BioPawn_123' with type 'human_male'.
-[14549.998] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(1902, isNum=0), column(4) in Bio2DA(Talent_TalentEffectLevels)
-[14549.998] Log: Bio2DA.cpp::CheckedGetFloatEntry(): Failed to read row(1918, isNum=0), column(4) in Bio2DA(Talent_TalentEffectLevels)
-[14550.198] BioChallengeScaling: UBioPawnBehavior::ScaleSecondaryAttributes: Warning! Attribute table could not be found! No scaling done for pawn 'BioPawn_124' with type 'hench_humanfemale'.
-[14550.317] BioChallengeScaling: UBioPawnBehavior::ScaleSecondaryAttributes: Warning! Attribute table could not be found! No scaling done for pawn 'BioPawn_125' with type 'hench_quarian'.
-[14550.327] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(284, isNum=0), column(9) in Bio2DA(Talent_TalentEffectLevels)
-[14630.653] Error: Error, Attempting to unpause deleted VFX! name=BIOA_UNC51.TheWorld:PersistentLevel.BioVisualEffect_2522 template=BIOG_APL_INT_G_Hex_Barrier_01_L.VFX.ShieldSmash03
-[14660.201] Error: Error, Attempting to unpause deleted VFX! name=BIOA_UNC51.TheWorld:PersistentLevel.BioVisualEffect_2530 template=BIOG_APL_INT_G_Hex_Barrier_01_L.VFX.ShieldSmash03
-[14677.140] Error: Error, Attempting to unpause deleted VFX! name=BIOA_UNC51.TheWorld:PersistentLevel.BioVisualEffect_2534 template=BIOG_APL_INT_G_Hex_Barrier_01_L.VFX.ShieldSmash03
-[14723.753] Error: Error, Attempting to unpause deleted VFX! name=BIOA_UNC51.TheWorld:PersistentLevel.BioVisualEffect_2536 template=BIOG_APL_INT_G_Hex_Barrier_01_L.VFX.ShieldSmash03
-[14758.514] Error: Error, Attempting to unpause deleted VFX! name=BIOA_UNC51.TheWorld:PersistentLevel.BioVisualEffect_2545 template=BIOG_APL_INT_G_Hex_Barrier_01_L.VFX.ShieldSmash03
-[14782.545] Error: Error, Attempting to unpause deleted VFX! name=BIOA_UNC51.TheWorld:PersistentLevel.BioVisualEffect_2547 template=BIOG_APL_INT_G_Hex_Barrier_01_L.VFX.ShieldSmash03
-[14801.503] Warning: Warning,  UBioAFComponent::GetOwnersTargetBehavior(): Owner is null or owner target is null
-[14919.659] Warning: Warning, attribute (m_nMaxTargetZones) is of a type that we can't handle
-[14919.660] Log: Attribs is NULL!
-[14919.660] Log: Attribs is NULL!
-[14919.660] Log: Bio2DA.cpp::CheckedGetNameEntry(): Failed to read row(56, isNum=0), column(6) in Bio2DA(Items_Items)
-[14919.660] Log: Attribs is NULL!
-[14919.660] Log: Attribs is NULL!
-[14919.661] Log: Bio2DA.cpp::CheckedGetNameEntry(): Failed to read row(57, isNum=0), column(6) in Bio2DA(Items_Items)
-[14919.661] Log: Attribs is NULL!
-[14919.661] Log: Attribs is NULL!
-[14919.662] Log: Attribs is NULL!
-[14942.402] Log: RescueStuckPawn BioPawn_124 adjusting position from <4252.3789, -68467.8359, -137857.0625> to <4162.3789, -68506.8047, -137859.0000>
-[14971.604] Warning: Warning,  UBioAFComponent::GetOwnersTargetBehavior(): Owner is null or owner target is null
-[15007.427] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15007.427] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15007.427] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15007.428] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15007.428] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15007.428] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15007.428] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15007.428] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15021.797] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15021.797] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15021.797] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15021.798] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15021.798] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15021.798] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15021.798] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15027.987] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15027.987] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15027.987] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15027.987] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15027.987] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15027.988] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15027.988] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15037.776] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15037.776] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15037.776] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15037.777] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15037.777] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15037.777] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15044.294] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15044.294] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15044.295] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15044.295] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15044.295] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15044.295] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15048.809] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15048.810] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15048.810] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15048.810] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15048.810] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15048.810] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15168.190] Log: Save took 0.32s to complete.
-[15168.190] Log: Saved John00_42 on device Id 1
-[15202.129] Error: Error, Attempting to unpause deleted VFX! name=BIOA_UNC51.TheWorld:PersistentLevel.BioVisualEffect_2618 template=BIOG_APL_INT_G_Hex_Barrier_01_L.VFX.ShieldSmash03
-[15208.153] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_31917" is assigned to group 21,but not registered with this container's collection of groups.
-[15208.153] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_31918" is assigned to group 22,but not registered with this container's collection of groups.
-[15208.153] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_31920" is assigned to group 24,but not registered with this container's collection of groups.
-[15208.154] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_31927" is assigned to group 21,but not registered with this container's collection of groups.
-[15208.154] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_31928" is assigned to group 22,but not registered with this container's collection of groups.
-[15208.154] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_31930" is assigned to group 24,but not registered with this container's collection of groups.
-[15261.358] Log: Loading John00_42 on device Id 0...
-[15262.092] BioChallengeScaling: UBioPawnBehavior::ScaleSecondaryAttributes: Warning! Attribute table could not be found! No scaling done for pawn 'BioPawn_160' with type 'human_male'.
-[15262.100] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(1902, isNum=0), column(4) in Bio2DA(Talent_TalentEffectLevels)
-[15262.100] Log: Bio2DA.cpp::CheckedGetFloatEntry(): Failed to read row(1918, isNum=0), column(4) in Bio2DA(Talent_TalentEffectLevels)
-[15262.300] BioChallengeScaling: UBioPawnBehavior::ScaleSecondaryAttributes: Warning! Attribute table could not be found! No scaling done for pawn 'BioPawn_161' with type 'hench_humanfemale'.
-[15262.420] BioChallengeScaling: UBioPawnBehavior::ScaleSecondaryAttributes: Warning! Attribute table could not be found! No scaling done for pawn 'BioPawn_162' with type 'hench_quarian'.
-[15262.430] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(284, isNum=0), column(9) in Bio2DA(Talent_TalentEffectLevels)
-[15289.789] Error: Error, Attempting to unpause deleted VFX! name=BIOA_UNC51.TheWorld:PersistentLevel.BioVisualEffect_2821 template=BIOG_APL_INT_G_Hex_Barrier_01_L.VFX.ShieldSmash03
-[15297.311] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_33005" is assigned to group 21,but not registered with this container's collection of groups.
-[15297.311] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_33006" is assigned to group 22,but not registered with this container's collection of groups.
-[15297.311] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_33008" is assigned to group 24,but not registered with this container's collection of groups.
-[15297.312] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_33012" is assigned to group 21,but not registered with this container's collection of groups.
-[15297.312] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_33013" is assigned to group 22,but not registered with this container's collection of groups.
-[15297.312] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_33015" is assigned to group 24,but not registered with this container's collection of groups.
-[15297.312] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_33019" is assigned to group 21,but not registered with this container's collection of groups.
-[15297.312] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_33020" is assigned to group 22,but not registered with this container's collection of groups.
-[15297.312] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_33022" is assigned to group 24,but not registered with this container's collection of groups.
-[15347.753] Log: Loading John00_42 on device Id 0...
-[15348.488] BioChallengeScaling: UBioPawnBehavior::ScaleSecondaryAttributes: Warning! Attribute table could not be found! No scaling done for pawn 'BioPawn_165' with type 'human_male'.
-[15348.496] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(1902, isNum=0), column(4) in Bio2DA(Talent_TalentEffectLevels)
-[15348.496] Log: Bio2DA.cpp::CheckedGetFloatEntry(): Failed to read row(1918, isNum=0), column(4) in Bio2DA(Talent_TalentEffectLevels)
-[15348.696] BioChallengeScaling: UBioPawnBehavior::ScaleSecondaryAttributes: Warning! Attribute table could not be found! No scaling done for pawn 'BioPawn_166' with type 'hench_humanfemale'.
-[15348.817] BioChallengeScaling: UBioPawnBehavior::ScaleSecondaryAttributes: Warning! Attribute table could not be found! No scaling done for pawn 'BioPawn_167' with type 'hench_quarian'.
-[15348.827] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(284, isNum=0), column(9) in Bio2DA(Talent_TalentEffectLevels)
-[15384.224] Error: Error, Attempting to unpause deleted VFX! name=BIOA_UNC51.TheWorld:PersistentLevel.BioVisualEffect_3022 template=BIOG_APL_INT_G_Hex_Barrier_01_L.VFX.ShieldSmash03
-[15390.424] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_34131" is assigned to group 21,but not registered with this container's collection of groups.
-[15390.425] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_34132" is assigned to group 22,but not registered with this container's collection of groups.
-[15390.425] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_34134" is assigned to group 24,but not registered with this container's collection of groups.
-[15390.425] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_34138" is assigned to group 21,but not registered with this container's collection of groups.
-[15390.425] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_34139" is assigned to group 22,but not registered with this container's collection of groups.
-[15390.425] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_34141" is assigned to group 24,but not registered with this container's collection of groups.
-[15390.426] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_34145" is assigned to group 21,but not registered with this container's collection of groups.
-[15390.426] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_34146" is assigned to group 22,but not registered with this container's collection of groups.
-[15390.426] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_34148" is assigned to group 24,but not registered with this container's collection of groups.
-[15396.598] Log: RescueStuckPawn BioPawn_29 adjusting position from <1678.3137, -71536.1094, -137864.8906> to <1528.3137, -71471.1563, -137866.6719>
-[15420.802] Log: Loading John00_42 on device Id 0...
-[15421.533] BioChallengeScaling: UBioPawnBehavior::ScaleSecondaryAttributes: Warning! Attribute table could not be found! No scaling done for pawn 'BioPawn_170' with type 'human_male'.
-[15421.541] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(1902, isNum=0), column(4) in Bio2DA(Talent_TalentEffectLevels)
-[15421.541] Log: Bio2DA.cpp::CheckedGetFloatEntry(): Failed to read row(1918, isNum=0), column(4) in Bio2DA(Talent_TalentEffectLevels)
-[15421.741] BioChallengeScaling: UBioPawnBehavior::ScaleSecondaryAttributes: Warning! Attribute table could not be found! No scaling done for pawn 'BioPawn_171' with type 'hench_humanfemale'.
-[15421.862] BioChallengeScaling: UBioPawnBehavior::ScaleSecondaryAttributes: Warning! Attribute table could not be found! No scaling done for pawn 'BioPawn_172' with type 'hench_quarian'.
-[15421.872] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(284, isNum=0), column(9) in Bio2DA(Talent_TalentEffectLevels)
-[15454.906] Error: Error, Attempting to unpause deleted VFX! name=BIOA_UNC51.TheWorld:PersistentLevel.BioVisualEffect_3226 template=BIOG_APL_INT_G_Hex_Barrier_01_L.VFX.ShieldSmash03
-[15462.672] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_35255" is assigned to group 21,but not registered with this container's collection of groups.
-[15462.673] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_35256" is assigned to group 22,but not registered with this container's collection of groups.
-[15462.673] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_35258" is assigned to group 24,but not registered with this container's collection of groups.
-[15462.674] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_35262" is assigned to group 21,but not registered with this container's collection of groups.
-[15462.674] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_35263" is assigned to group 22,but not registered with this container's collection of groups.
-[15462.674] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_35265" is assigned to group 24,but not registered with this container's collection of groups.
-[15488.086] Log: RescueStuckPawn BioPawn_3 adjusting position from <2757.3279, -71329.9609, -137865.0625> to <2607.3279, -71394.9141, -137867.0000>
-[15492.036] Log: RescueStuckPawn BioPawn_27 adjusting position from <1566.4713, -71535.9219, -137864.5156> to <1416.4713, -71600.8750, -137866.6719>
-[15495.651] Log: RescueStuckPawn BioPawn_27 adjusting position from <1567.0959, -71536.1094, -137864.5156> to <1417.0959, -71601.0625, -137866.6719>
-[15534.923] Log: RescueStuckPawn BioPawn_1 adjusting position from <1548.2526, -71413.7500, -137864.8750> to <1398.2526, -71478.7031, -137866.6719>
-[15551.218] Log: RescueStuckPawn BioPawn_1 adjusting position from <2379.7859, -71401.1484, -137864.8438> to <2529.7859, -71336.1953, -137867.0000>
-[15551.476] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_35336" is assigned to group 21,but not registered with this container's collection of groups.
-[15551.476] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_35337" is assigned to group 22,but not registered with this container's collection of groups.
-[15551.476] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_35339" is assigned to group 24,but not registered with this container's collection of groups.
-[15551.477] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_35343" is assigned to group 21,but not registered with this container's collection of groups.
-[15551.477] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_35344" is assigned to group 22,but not registered with this container's collection of groups.
-[15551.477] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_35346" is assigned to group 24,but not registered with this container's collection of groups.
-[15551.477] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_35350" is assigned to group 21,but not registered with this container's collection of groups.
-[15551.477] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_35351" is assigned to group 22,but not registered with this container's collection of groups.
-[15551.478] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_35353" is assigned to group 24,but not registered with this container's collection of groups.
-[15551.478] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_35357" is assigned to group 21,but not registered with this container's collection of groups.
-[15551.478] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_35358" is assigned to group 22,but not registered with this container's collection of groups.
-[15551.478] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_35360" is assigned to group 24,but not registered with this container's collection of groups.
-[15630.743] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15630.743] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15630.743] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15630.743] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15630.744] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15630.744] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15630.744] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15630.744] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15630.745] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15630.745] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15630.745] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15630.745] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15630.745] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15630.746] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15643.568] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15643.568] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15643.569] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15643.569] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15643.569] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15643.569] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15643.569] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15643.570] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15643.570] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15643.570] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15643.570] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15643.571] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15643.571] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15643.571] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15643.571] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15643.571] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15643.572] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15643.572] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15643.572] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15643.572] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15665.564] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15665.564] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15665.564] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15665.564] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15665.565] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15665.565] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15665.565] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15665.565] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15665.565] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15665.566] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15665.566] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15665.566] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15665.566] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15665.566] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15665.567] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15665.567] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15665.567] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15665.567] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15665.568] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15665.568] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15686.267] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15686.267] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15686.268] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15686.268] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15686.268] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15686.268] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15686.269] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15686.269] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15686.269] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15686.269] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15686.269] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15686.270] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15686.270] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15686.270] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15686.270] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15686.270] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15686.271] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15686.271] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15686.271] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15686.271] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15691.618] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15691.618] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15691.619] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15691.619] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15691.619] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15691.619] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15691.620] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15691.620] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15691.620] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15691.620] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15691.620] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15691.621] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15691.621] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15691.621] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15691.621] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15691.621] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15691.622] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15691.622] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15691.622] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15691.622] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[15715.218] Log: Save took 0.32s to complete.
-[15715.218] Log: Saved John00_43 on device Id 1
-[15749.477] Error: Error, Attempting to unpause deleted VFX! name=BIOA_UNC51.TheWorld:PersistentLevel.BioVisualEffect_3327 template=BIOG_APL_INT_G_Hex_Barrier_01_L.VFX.ShieldSmash03
-[15761.299] Error: Error, Attempting to unpause deleted VFX! name=BIOA_UNC51.TheWorld:PersistentLevel.BioVisualEffect_3331 template=BIOG_APL_INT_G_Hex_Barrier_01_L.VFX.ShieldSmash03
-[15813.305] Error: Error, Attempting to unpause deleted VFX! name=BIOA_UNC51.TheWorld:PersistentLevel.BioVisualEffect_3353 template=BIOG_APL_INT_G_Hex_Barrier_01_L.VFX.ShieldSmash03
-[15935.237] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_36883" is assigned to group 21,but not registered with this container's collection of groups.
-[15935.237] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_36884" is assigned to group 22,but not registered with this container's collection of groups.
-[15935.237] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_36886" is assigned to group 24,but not registered with this container's collection of groups.
-[15935.238] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_36894" is assigned to group 21,but not registered with this container's collection of groups.
-[15935.238] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_36895" is assigned to group 22,but not registered with this container's collection of groups.
-[15935.238] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_36897" is assigned to group 24,but not registered with this container's collection of groups.
-[15935.239] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_36909" is assigned to group 21,but not registered with this container's collection of groups.
-[15935.239] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_36910" is assigned to group 22,but not registered with this container's collection of groups.
-[15935.239] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_36912" is assigned to group 24,but not registered with this container's collection of groups.
-[15976.892] Error: Error, Attempting to unpause deleted VFX! name=BIOA_UNC51.TheWorld:PersistentLevel.BioVisualEffect_3427 template=BIOG_APL_INT_G_Hex_Barrier_01_L.VFX.ShieldSmash03
-[16135.634] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16135.634] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16135.634] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16135.635] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16135.635] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16135.635] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16135.635] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16135.635] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16135.636] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16135.636] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16135.636] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16135.636] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16135.637] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16135.637] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16135.637] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16135.637] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16135.637] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16135.638] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16135.638] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16148.154] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16148.154] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16148.154] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16148.154] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16148.155] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16148.155] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16148.155] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16148.155] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16148.155] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16148.156] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16148.156] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16148.156] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16148.168] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16148.168] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16148.169] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16148.169] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16148.169] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16148.169] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16148.170] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16148.170] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16148.170] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16148.170] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16148.171] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16148.171] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16148.171] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16148.171] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16148.171] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16148.172] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16148.172] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16148.172] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16148.172] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16148.173] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16148.173] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16148.173] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16157.874] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16157.874] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16157.875] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16157.875] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16157.875] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16157.875] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16157.876] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16157.876] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16157.876] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16157.876] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16157.876] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16157.877] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16157.877] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16157.877] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16157.877] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16157.878] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16157.878] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16157.878] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16157.878] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16157.878] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16157.879] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16157.879] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16161.939] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16161.939] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16161.939] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16161.939] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16161.940] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16161.940] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16161.940] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16161.940] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16161.940] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16161.940] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16161.941] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16161.941] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16161.953] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16161.953] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16161.953] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16161.953] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16161.953] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16161.954] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16161.954] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16161.954] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16161.954] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16161.955] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16161.955] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16161.955] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16161.955] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16161.956] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16161.956] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16161.956] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16161.956] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16161.957] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16161.957] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16161.957] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16161.957] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16161.957] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16164.693] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16164.693] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16164.693] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16164.693] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16164.694] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16164.694] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16164.694] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16164.694] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16164.695] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16164.695] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16164.695] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16164.695] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16164.696] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16164.696] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16164.696] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16164.696] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16164.697] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16164.697] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16164.697] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16164.697] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16164.698] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16164.698] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16168.747] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16168.747] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16168.747] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16168.747] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16168.747] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16168.748] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16168.748] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16168.748] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16168.748] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16168.748] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16168.749] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16168.749] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16168.761] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16168.761] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16168.762] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16168.762] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16168.762] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16168.762] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16168.763] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16168.763] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16168.763] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16168.763] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16168.764] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16168.764] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16168.764] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16168.764] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16168.764] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16168.765] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16168.765] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16168.765] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16168.765] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16168.765] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16168.766] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16168.766] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16174.225] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16174.225] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16174.225] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16174.226] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16174.226] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16174.226] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16174.226] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16174.227] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16174.227] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16174.227] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16174.227] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16174.228] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16174.228] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16174.228] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16174.228] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16174.229] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16174.229] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16174.229] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16174.229] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16174.230] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16174.230] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16174.230] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
-[16245.122] Log: Save took 0.32s to complete.
-[16245.122] Log: Saved John00_44 on device Id 1
-[16287.016] Warning: Warning,  UBioAFComponent::GetOwnersTargetBehavior(): Owner is null or owner target is null
-[16367.471] Warning: Warning, attribute (m_nMaxTargetZones) is of a type that we can't handle
-[16367.472] Log: Attribs is NULL!
-[16367.473] Log: Attribs is NULL!
-[16367.473] Log: Bio2DA.cpp::CheckedGetNameEntry(): Failed to read row(56, isNum=0), column(6) in Bio2DA(Items_Items)
-[16367.473] Log: Attribs is NULL!
-[16367.473] Log: Attribs is NULL!
-[16367.473] Log: Bio2DA.cpp::CheckedGetNameEntry(): Failed to read row(57, isNum=0), column(6) in Bio2DA(Items_Items)
-[16367.473] Log: Attribs is NULL!
-[16367.473] Log: Attribs is NULL!
-[16367.474] Log: Attribs is NULL!
-[16377.845] BioChallengeScaling: UBioPawnBehavior::ScaleSecondaryAttributes: Warning! Attribute table could not be found! No scaling done for pawn 'BioPawn_193' with type 'human_male'.
-[16377.858] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(1902, isNum=0), column(4) in Bio2DA(Talent_TalentEffectLevels)
-[16377.858] Log: Bio2DA.cpp::CheckedGetFloatEntry(): Failed to read row(1918, isNum=0), column(4) in Bio2DA(Talent_TalentEffectLevels)
-[16380.920] Log: Save took 0.35s to complete.
-[16431.649] Log: Save took 0.30s to complete.
-[16431.649] Log: Saved John00_45 on device Id 1
-[16440.281] Log: Closing by request
-[16442.391] Uninitialized: Log file closed, 04/05/10 00:15:50
+[0.018] Log: Log file open, 05/15/11 17:01:02
+[0.018] Init: BioWare Final Build Version: 1.2.20608.0
+[0.018] Init: Command line: 
+[0.018] Init: Base directory: c:\steam\steamapps\common\mass effect\Binaries\
+[0.059] Init: CPU Page size=4096, Processors=8
+[0.059] Init: High frequency timer resolution =2.607451 MHz
+[0.059] Init: Memory total: Phys=4194303K Pagef=4194303K Virt=2097024K
+[2.979] Log: Failed to load 'Material None.': Failed to find object 'Material None.'
+[2.979] Log: Failed to load 'Material None.': Failed to find object 'Material None.'
+[2.979] Log: Failed to load 'Material None.': Failed to find object 'Material None.'
+[2.979] Log: Failed to load 'Material None.': Failed to find object 'Material None.'
+[2.979] Log: Failed to load 'Material None.': Failed to find object 'Material None.'
+[2.981] Log: Failed to load 'Material None.': Failed to find object 'Material None.'
+[15.405] Init: Audio Driver: Digital Output (SoundMAX Integrated Digital HD Audio) ({0.0.0.00000000}.{c405c626-f707-44ba-ab22-3f2787d4642d})
+[15.437] Init: Audio Device: Generic Software
+[15.566] Init: 60 Free Sources, 2 Reserved
+[16.529] Log: >>>>>>>>>>>>>> Initial startup: 16.53s <<<<<<<<<<<<<<<
+[16.874] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(1902, isNum=0), column(4) in Bio2DA(Talent_TalentEffectLevels)
+[16.874] Log: Bio2DA.cpp::CheckedGetFloatEntry(): Failed to read row(1918, isNum=0), column(4) in Bio2DA(Talent_TalentEffectLevels)
+[37.507] Log: Loading John00_45 on device Id 0...
+[38.063] BioChallengeScaling: UBioPawnBehavior::ScaleSecondaryAttributes: Warning! Attribute table could not be found! No scaling done for pawn 'BioPawn_7' with type 'human_male'.
+[38.064] Warning: Warning, bio2daprop::SetProperty: Could not find property named m_aspect in class BioGameEffectAttributeString. Object=BioGameEffectAttributeString_0
+[38.064] Warning: Warning, bio2daprop::SetProperty: Could not find property named m_modifier in class BioGameEffectAttributeString. Object=BioGameEffectAttributeString_0
+[38.064] Warning: Warning, bio2daprop::SetProperty: Could not find property named m_aspect in class BioGameEffectAttributeString. Object=BioGameEffectAttributeString_2
+[38.064] Warning: Warning, bio2daprop::SetProperty: Could not find property named m_modifier in class BioGameEffectAttributeString. Object=BioGameEffectAttributeString_2
+[38.070] Warning: Warning, bio2daprop::SetProperty: Could not find property named m_aspect in class BioGameEffectAttributeString. Object=BioGameEffectAttributeString_4
+[38.070] Warning: Warning, bio2daprop::SetProperty: Could not find property named m_modifier in class BioGameEffectAttributeString. Object=BioGameEffectAttributeString_4
+[38.077] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(1902, isNum=0), column(4) in Bio2DA(Talent_TalentEffectLevels)
+[38.077] Log: Bio2DA.cpp::CheckedGetFloatEntry(): Failed to read row(1918, isNum=0), column(4) in Bio2DA(Talent_TalentEffectLevels)
+[157.040] Warning: Warning,  UBioAFComponent::GetOwnersTargetBehavior(): Owner is null or owner target is null
+[164.043] BioChallengeScaling: UBioPawnBehavior::ScaleSecondaryAttributes: Warning! Attribute table could not be found! No scaling done for pawn 'BioPawn_8' with type 'human_male'.
+[164.056] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(1902, isNum=0), column(4) in Bio2DA(Talent_TalentEffectLevels)
+[164.056] Log: Bio2DA.cpp::CheckedGetFloatEntry(): Failed to read row(1918, isNum=0), column(4) in Bio2DA(Talent_TalentEffectLevels)
+[165.400] Warning: Warning, attribute (m_nMaxTargetZones) is of a type that we can't handle
+[165.405] Log: Attribs is NULL!
+[165.405] Log: Attribs is NULL!
+[165.405] Log: Bio2DA.cpp::CheckedGetNameEntry(): Failed to read row(56, isNum=0), column(6) in Bio2DA(Items_Items)
+[165.405] Log: Attribs is NULL!
+[165.405] Log: Attribs is NULL!
+[165.405] Log: Bio2DA.cpp::CheckedGetNameEntry(): Failed to read row(57, isNum=0), column(6) in Bio2DA(Items_Items)
+[165.405] Log: Attribs is NULL!
+[165.405] Log: Attribs is NULL!
+[165.406] Log: Attribs is NULL!
+[183.123] Log: Failed to preload initial sounds for matinee BIOA_UNC51_CIN.TheWorld:PersistentLevel.Main_Sequence.UNCRoverCutscene.ANIMCUTSCENE_GLO_RoverDrop_1.InterpData_0
+[183.123] Log: Failed to preload initial sounds for matinee BIOA_UNC51_CIN.TheWorld:PersistentLevel.Main_Sequence.UNCRoverCutscene.ANIMCUTSCENE_GLO_RoverLand_1.InterpData_1
+[183.775] BioChallengeScaling: UBioPawnBehavior::ScaleSecondaryAttributes: Warning! Attribute table could not be found! No scaling done for pawn 'BioPawn_9' with type 'hench_humanfemale'.
+[184.070] BioChallengeScaling: UBioPawnBehavior::ScaleSecondaryAttributes: Warning! Attribute table could not be found! No scaling done for pawn 'BioPawn_10' with type 'hench_quarian'.
+[184.080] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(284, isNum=0), column(9) in Bio2DA(Talent_TalentEffectLevels)
+[197.809] Warning: Warning, attribute (m_nMaxTargetZones) is of a type that we can't handle
+[197.811] Log: Attribs is NULL!
+[197.811] Log: Attribs is NULL!
+[197.811] Log: Bio2DA.cpp::CheckedGetNameEntry(): Failed to read row(57, isNum=0), column(6) in Bio2DA(Items_Items)
+[197.811] Log: Attribs is NULL!
+[197.811] Log: Attribs is NULL!
+[197.811] Log: Bio2DA.cpp::CheckedGetNameEntry(): Failed to read row(56, isNum=0), column(6) in Bio2DA(Items_Items)
+[197.811] Log: Attribs is NULL!
+[197.811] Log: Attribs is NULL!
+[197.812] Log: Attribs is NULL!
+[198.168] Log: Save took 0.26s to complete.
+[304.389] Warning: Warning, Unable to find conversation speaker to set local variable.
+[307.840] Warning: Warning, Unable to find conversation speaker to set local variable.
+[363.527] Warning: Warning, Unable to find conversation speaker to set local variable.
+[497.905] BioChallengeScaling: UBioPawnBehavior::ScaleSecondaryAttributes: Warning! Attribute table could not be found! No scaling done for pawn 'BioPawn_12' with type 'human_male'.
+[497.918] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(1902, isNum=0), column(4) in Bio2DA(Talent_TalentEffectLevels)
+[497.918] Log: Bio2DA.cpp::CheckedGetFloatEntry(): Failed to read row(1918, isNum=0), column(4) in Bio2DA(Talent_TalentEffectLevels)
+[500.682] Log: Save took 0.33s to complete.
+[655.567] Log: *** WARNING - PATHS MAY NOT BE VALID ***
+[655.955] BioChallengeScaling: UBioPawnBehavior::ScaleSecondaryAttributes: Warning! Attribute table could not be found! No scaling done for pawn 'BioPawn_13' with type 'human_male'.
+[655.968] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(1902, isNum=0), column(4) in Bio2DA(Talent_TalentEffectLevels)
+[655.968] Log: Bio2DA.cpp::CheckedGetFloatEntry(): Failed to read row(1918, isNum=0), column(4) in Bio2DA(Talent_TalentEffectLevels)
+[657.057] Warning: Warning, attribute (m_nMaxTargetZones) is of a type that we can't handle
+[657.062] Log: Attribs is NULL!
+[657.062] Log: Attribs is NULL!
+[657.062] Log: Bio2DA.cpp::CheckedGetNameEntry(): Failed to read row(56, isNum=0), column(6) in Bio2DA(Items_Items)
+[657.062] Log: Attribs is NULL!
+[657.062] Log: Attribs is NULL!
+[657.062] Log: Bio2DA.cpp::CheckedGetNameEntry(): Failed to read row(57, isNum=0), column(6) in Bio2DA(Items_Items)
+[657.062] Log: Attribs is NULL!
+[657.062] Log: Attribs is NULL!
+[657.063] Log: Attribs is NULL!
+[657.172] BioChallengeScaling: UBioPawnBehavior::ScaleAttributes: Warning! Attribute table could not be found! No scaling done for pawn 'BioPawn_1' with type 'UNC_MIN_LeagueOfOne'.
+[657.172] BioChallengeScaling: UBioPawnBehavior::ScaleTalents: Talent scaling table undefined. No talents loaded for pawn 'BioPawn_1'.
+[657.172] BioChallengeScaling: UBioPawnBehavior::LoadEquipment - Warning! The pawn 'BioPawn_1' has no equipment table!
+[665.160] Log: Failed to preload initial sounds for matinee BIOA_UNC25_CIN.TheWorld:PersistentLevel.Main_Sequence.UNCRoverCutscene.ANIMCUTSCENE_GLO_RoverDrop_1.InterpData_0
+[665.160] Log: Failed to preload initial sounds for matinee BIOA_UNC25_CIN.TheWorld:PersistentLevel.Main_Sequence.UNCRoverCutscene.ANIMCUTSCENE_GLO_RoverLand_1.InterpData_1
+[665.305] BioChallengeScaling: UBioPawnBehavior::ScaleSecondaryAttributes: Warning! Attribute table could not be found! No scaling done for pawn 'BioPawn_14' with type 'hench_humanfemale'.
+[665.417] BioChallengeScaling: UBioPawnBehavior::ScaleSecondaryAttributes: Warning! Attribute table could not be found! No scaling done for pawn 'BioPawn_15' with type 'hench_quarian'.
+[665.428] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(284, isNum=0), column(9) in Bio2DA(Talent_TalentEffectLevels)
+[679.155] Warning: Warning, attribute (m_nMaxTargetZones) is of a type that we can't handle
+[679.157] Log: Attribs is NULL!
+[679.157] Log: Attribs is NULL!
+[679.157] Log: Bio2DA.cpp::CheckedGetNameEntry(): Failed to read row(57, isNum=0), column(6) in Bio2DA(Items_Items)
+[679.157] Log: Attribs is NULL!
+[679.157] Log: Attribs is NULL!
+[679.157] Log: Bio2DA.cpp::CheckedGetNameEntry(): Failed to read row(56, isNum=0), column(6) in Bio2DA(Items_Items)
+[679.158] Log: Attribs is NULL!
+[679.158] Log: Attribs is NULL!
+[679.158] Log: Attribs is NULL!
+[679.519] Log: Save took 0.27s to complete.
+[1018.819] Log: Trying to advance a quest to a task that has already been accomplished for this quest
+[1099.795] Warning: Warning, Unable to find conversation speaker to set local variable.
+[1110.371] BioChallengeScaling: UBioPawnBehavior::ScaleSecondaryAttributes: Warning! Attribute table could not be found! No scaling done for pawn 'BioPawn_16' with type 'human_male'.
+[1110.383] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(1902, isNum=0), column(4) in Bio2DA(Talent_TalentEffectLevels)
+[1110.384] Log: Bio2DA.cpp::CheckedGetFloatEntry(): Failed to read row(1918, isNum=0), column(4) in Bio2DA(Talent_TalentEffectLevels)
+[1113.187] Log: Save took 0.33s to complete.
+[1291.066] Warning: Warning,  UBioAFComponent::GetOwnersTargetBehavior(): Owner is null or owner target is null
+[1308.210] Log: Trying to advance a quest to a task that has already been accomplished for this quest
+[1308.210] Log: Trying to advance a quest to a task that has already been accomplished for this quest
+[1328.177] Log: Trying to advance a quest to a task that has already been accomplished for this quest
+[1328.177] Log: Trying to advance a quest to a task that has already been accomplished for this quest
+[1371.984] BioChallengeScaling: UBioPawnBehavior::ScaleSecondaryAttributes: Warning! Attribute table could not be found! No scaling done for pawn 'BioPawn_17' with type 'human_male'.
+[1371.997] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(1902, isNum=0), column(4) in Bio2DA(Talent_TalentEffectLevels)
+[1371.997] Log: Bio2DA.cpp::CheckedGetFloatEntry(): Failed to read row(1918, isNum=0), column(4) in Bio2DA(Talent_TalentEffectLevels)
+[1373.106] Warning: Warning, attribute (m_nMaxTargetZones) is of a type that we can't handle
+[1373.111] Log: Attribs is NULL!
+[1373.111] Log: Attribs is NULL!
+[1373.111] Log: Bio2DA.cpp::CheckedGetNameEntry(): Failed to read row(56, isNum=0), column(6) in Bio2DA(Items_Items)
+[1373.112] Log: Attribs is NULL!
+[1373.112] Log: Attribs is NULL!
+[1373.112] Log: Bio2DA.cpp::CheckedGetNameEntry(): Failed to read row(57, isNum=0), column(6) in Bio2DA(Items_Items)
+[1373.112] Log: Attribs is NULL!
+[1373.112] Log: Attribs is NULL!
+[1373.113] Log: Attribs is NULL!
+[1379.492] Log: Failed to preload initial sounds for matinee BIOA_UNC90_CIN.TheWorld:PersistentLevel.Main_Sequence.UNCRoverCutscene.ANIMCUTSCENE_GLO_RoverDrop_1.InterpData_0
+[1379.492] Log: Failed to preload initial sounds for matinee BIOA_UNC90_CIN.TheWorld:PersistentLevel.Main_Sequence.UNCRoverCutscene.ANIMCUTSCENE_GLO_RoverLand_1.InterpData_1
+[1379.809] BioChallengeScaling: UBioPawnBehavior::ScaleSecondaryAttributes: Warning! Attribute table could not be found! No scaling done for pawn 'BioPawn_18' with type 'hench_turian'.
+[1380.020] BioChallengeScaling: UBioPawnBehavior::ScaleSecondaryAttributes: Warning! Attribute table could not be found! No scaling done for pawn 'BioPawn_19' with type 'hench_krogan'.
+[1380.030] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(197, isNum=0), column(10) in Bio2DA(Talent_TalentEffectLevels)
+[1380.031] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(168, isNum=0), column(6) in Bio2DA(Talent_TalentEffectLevels)
+[1380.031] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(238, isNum=0), column(4) in Bio2DA(Talent_TalentEffectLevels)
+[1393.825] Warning: Warning, attribute (m_nMaxTargetZones) is of a type that we can't handle
+[1393.826] Log: Attribs is NULL!
+[1393.826] Log: Attribs is NULL!
+[1393.827] Log: Bio2DA.cpp::CheckedGetNameEntry(): Failed to read row(57, isNum=0), column(6) in Bio2DA(Items_Items)
+[1393.827] Log: Attribs is NULL!
+[1393.827] Log: Attribs is NULL!
+[1393.827] Log: Bio2DA.cpp::CheckedGetNameEntry(): Failed to read row(56, isNum=0), column(6) in Bio2DA(Items_Items)
+[1393.827] Log: Attribs is NULL!
+[1393.827] Log: Attribs is NULL!
+[1393.828] Log: Attribs is NULL!
+[1394.199] Log: Save took 0.28s to complete.
+[2005.699] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_6271" is assigned to group 21,but not registered with this container's collection of groups.
+[2005.699] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_6272" is assigned to group 22,but not registered with this container's collection of groups.
+[2005.699] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_6274" is assigned to group 24,but not registered with this container's collection of groups.
+[2005.700] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_6279" is assigned to group 21,but not registered with this container's collection of groups.
+[2005.701] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_6280" is assigned to group 22,but not registered with this container's collection of groups.
+[2005.701] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_6281" is assigned to group 23,but not registered with this container's collection of groups.
+[2005.703] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_6286" is assigned to group 21,but not registered with this container's collection of groups.
+[2005.703] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_6287" is assigned to group 22,but not registered with this container's collection of groups.
+[2005.703] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_6289" is assigned to group 24,but not registered with this container's collection of groups.
+[2091.840] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_6350" is assigned to group 21,but not registered with this container's collection of groups.
+[2091.840] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_6351" is assigned to group 22,but not registered with this container's collection of groups.
+[2091.840] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_6353" is assigned to group 24,but not registered with this container's collection of groups.
+[2091.841] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_6357" is assigned to group 21,but not registered with this container's collection of groups.
+[2091.841] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_6358" is assigned to group 22,but not registered with this container's collection of groups.
+[2091.841] Warning: Warning, UBioGamePropertyManager::UnapplyGameProperty: The game property "BioGameProperty_6360" is assigned to group 24,but not registered with this container's collection of groups.
+[2471.471] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
+[2471.471] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
+[2475.085] Warning: Warning,  UBioAFComponent::GetOwnersTargetBehavior(): Owner is null or owner target is null
+[2526.063] Warning: Warning,  UBioAFComponent::GetOwnersTargetBehavior(): Owner is null or owner target is null
+[2535.467] Warning: Warning,  UBioAFComponent::GetOwnersTargetBehavior(): Owner is null or owner target is null
+[2658.065] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
+[2658.065] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
+[2658.065] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
+[2701.475] Warning: Warning, attribute (m_nMaxTargetZones) is of a type that we can't handle
+[2701.477] Log: Attribs is NULL!
+[2701.477] Log: Attribs is NULL!
+[2701.477] Log: Bio2DA.cpp::CheckedGetNameEntry(): Failed to read row(56, isNum=0), column(6) in Bio2DA(Items_Items)
+[2701.477] Log: Attribs is NULL!
+[2701.477] Log: Attribs is NULL!
+[2701.477] Log: Bio2DA.cpp::CheckedGetNameEntry(): Failed to read row(57, isNum=0), column(6) in Bio2DA(Items_Items)
+[2701.478] Log: Attribs is NULL!
+[2701.478] Log: Attribs is NULL!
+[2701.478] Log: Attribs is NULL!
+[2703.714] Warning: Warning, attribute (m_nMaxTargetZones) is of a type that we can't handle
+[2703.715] Log: Attribs is NULL!
+[2703.715] Log: Attribs is NULL!
+[2703.715] Log: Bio2DA.cpp::CheckedGetNameEntry(): Failed to read row(57, isNum=0), column(6) in Bio2DA(Items_Items)
+[2703.716] Log: Attribs is NULL!
+[2703.716] Log: Attribs is NULL!
+[2703.716] Log: Bio2DA.cpp::CheckedGetNameEntry(): Failed to read row(56, isNum=0), column(6) in Bio2DA(Items_Items)
+[2703.716] Log: Attribs is NULL!
+[2703.716] Log: Attribs is NULL!
+[2703.717] Log: Attribs is NULL!
+[2720.614] BioChallengeScaling: UBioPawnBehavior::ScaleSecondaryAttributes: Warning! Attribute table could not be found! No scaling done for pawn 'BioPawn_31' with type 'human_male'.
+[2720.632] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(1902, isNum=0), column(4) in Bio2DA(Talent_TalentEffectLevels)
+[2720.632] Log: Bio2DA.cpp::CheckedGetFloatEntry(): Failed to read row(1918, isNum=0), column(4) in Bio2DA(Talent_TalentEffectLevels)
+[2723.516] Log: Save took 0.34s to complete.
+[2730.977] Log: Save took 0.30s to complete.
+[2730.977] Log: Saved John00_46 on device Id 1
+[2952.174] Log: Closing by request
+[2953.563] Uninitialized: Log file closed, 05/15/11 17:50:16
