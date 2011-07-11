@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<hardware_settings_info>
+	<systemInfo OS=" (Build 7600)" totalMemory="4194303" winPlatformID="2" winMajorVersion="6" winMinorVersion="1" isWinXP="false" isWinVista="false" isWin7="true" rating="3" />
+	<cpu name="Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz" speed="2670" cores="8" hyperThreading="false" sse2Supported="true" rating="3" />
+	<graphics_card name="ATI Radeon HD 5800 Series " vendorId="0x1002" deviceId="0x6899" vs_shader="3_0" ps_shader="3_0" memory="3823" rating="3" dx11="true">
+		<resolution width="640" height="480" aspect="normal">
+			<refreshRate rate="60" />
+			<refreshRate rate="75" />
+		</resolution>
+		<resolution width="720" height="480" aspect="normal">
+			<refreshRate rate="60" />
+			<refreshRate rate="75" />
+		</resolution>
+		<resolution width="720" height="576" aspect="normal">
+			<refreshRate rate="60" />
+			<refreshRate rate="75" />
+		</resolution>
+		<resolution width="800" height="600" aspect="normal">
+			<refreshRate rate="60" />
+			<refreshRate rate="75" />
+		</resolution>
+		<resolution width="1024" height="768" aspect="normal">
+			<refreshRate rate="60" />
+			<refreshRate rate="75" />
+		</resolution>
+		<resolution width="1152" height="864" aspect="normal">
+			<refreshRate rate="60" />
+			<refreshRate rate="75" />
+		</resolution>
+		<resolution width="1280" height="720" aspect="normal">
+			<refreshRate rate="60" />
+			<refreshRate rate="59" />
+			<refreshRate rate="75" />
+		</resolution>
+		<resolution width="1280" height="768" aspect="normal">
+			<refreshRate rate="60" />
+			<refreshRate rate="75" />
+		</resolution>
+		<resolution width="1280" height="800" aspect="normal">
+			<refreshRate rate="60" />
+			<refreshRate rate="75" />
+		</resolution>
+		<resolution width="1280" height="960" aspect="normal">
+			<refreshRate rate="60" />
+			<refreshRate rate="75" />
+		</resolution>
+		<resolution width="1280" height="1024" aspect="normal">
+			<refreshRate rate="60" />
+			<refreshRate rate="75" />
+		</resolution>
+		<resolution width="1360" height="768" aspect="normal">
+			<refreshRate rate="59" />
+			<refreshRate rate="60" />
+		</resolution>
+		<resolution width="1400" height="1050" aspect="normal">
+			<refreshRate rate="59" />
+			<refreshRate rate="60" />
+		</resolution>
+		<resolution width="1440" height="900" aspect="normal">
+			<refreshRate rate="59" />
+			<refreshRate rate="60" />
+			<refreshRate rate="75" />
+		</resolution>
+		<resolution width="1600" height="1200" aspect="normal">
+			<refreshRate rate="60" />
+		</resolution>
+		<resolution width="1680" height="1050" aspect="normal">
+			<refreshRate rate="60" />
+		</resolution>
+		<resolution width="1920" height="1080" aspect="normal">
+			<refreshRate rate="60" />
+		</resolution>
+		<resolution width="1920" height="1200" aspect="normal">
+			<refreshRate rate="60" />
+		</resolution>
+		<capabilities a2r10g10b10="true">
+			<alpha_to_coverage supported="true" method="ATi" />
+			<multisampling>
+				<mode name="off" />
+				<mode name="2xmsaa" />
+				<mode name="4xmsaa" />
+				<mode name="8xmsaa" />
+			</multisampling>
+		</capabilities>
+	</graphics_card>
+	<audio_card audioEnabled="true">
+		<unsupported type="hardware" index="0" reverbs="1" voices="0" />
+		<mixing type="software" index="1" reverbs="1" voices="192" />
+		<unsupported type="rapture3D" index="5" reverbs="4" voices="0" />
+	</audio_card>
+</hardware_settings_info>
